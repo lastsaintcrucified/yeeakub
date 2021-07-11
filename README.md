@@ -37,12 +37,8 @@
 ### Connect with me: <img src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif" width="50"> 
 
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/yeeakub/)
-
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/yeakubalishawon/)
-
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/16425652/yeakubalishawon)
-
-
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:yeakubalishawon@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/yeeakub)
 
@@ -54,9 +50,5 @@
 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeeakub&theme=tokyonight" />
-
-### Contributions:
-
-<img src="https://activity-graph.herokuapp.com/graph?username=yeeakub&amp;theme=solarized-light&amp;hide_border=true&amp;area=true" width="70%">
 
 
